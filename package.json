@@ -1,0 +1,19 @@
+{
+  "name": "projecttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aisling0/ProjectTest.git"
+  },
+  "author": "Aisling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aisling0/ProjectTest/issues"
+  },
+  "homepage": "https://github.com/Aisling0/ProjectTest#readme"
+}
